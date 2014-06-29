@@ -9,7 +9,7 @@ echo "<?xml version='1.0' encoding='UTF-8'?>";
  		echo "<Say>Welcome to clean call debug</Say>";
  		echo "<Say>$greeting</Say>";
  		echo "<Say>$message</Say>";
- 		echo "<Say>The time now is</Say>";
+ 		# echo "<Say>The time now is</Say>";
  		echo "<Say>$formatted_time</Say>";
 	echo "</Response>";
 ?>
